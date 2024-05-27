@@ -1,0 +1,22 @@
+{
+  "name": "test_ajs_packet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/long57899/ajs_2.git"
+  },
+  "author": "long57899",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/long57899/ajs_2/issues"
+  },
+  "homepage": "https://github.com/long57899/ajs_2#readme",
+  "dependencies": {
+    "@long57899/ajs": "^1.0.0"
+  }
+}
